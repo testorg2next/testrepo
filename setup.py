@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='githubtestorg2-testrepo-testpkg',
-    version='0.0.6.dev1',
+    version='0.0.6',
     description="A sample Python project",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
