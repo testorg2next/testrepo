@@ -5,7 +5,7 @@ Repo for testing github mechanics.
 lorem ipsum
 
 # another new section
-lorem ipsum
+lorem ipsum or not to lorem ipsum
 
 # new in 0.0.5!
 nothing
