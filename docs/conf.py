@@ -9,7 +9,7 @@
 project = 'githubtestorg2-testrepo-testpkg'
 copyright = '2024, Test A. Uthor'
 author = 'Test A. Uthor'
-release = '0.0.7.dev2'
+release = '0.0.7'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
