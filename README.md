@@ -18,3 +18,6 @@ Assume this README.md is our testrepo stand-in for a CHANGELOG.md
 I'll stick a date on it...
 Here's the new 0.0.7 stuff
 Should we be doing these sections in reverse order so the latest is always at the top?
+
+# 0.0.8
+Try publishing from fork!
