@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "githubtestorg2-testrepo-testpkg"
+version = "0.0.9"
+dependencies = [
+    "numpy>=1.11.0",
+    "scipy",
+]
+requires-python = ">=3.10"
+description = "A sample Python project"
+readme = "README.md"
+license = {text = "MIT"}
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+[project.urls]
+Repository = "https://github.com/testorg2next/testrepo.git"
+"Bug Tracker" = "https://github.com/testorg2next/testrepo/issues"

@@ -21,3 +21,6 @@ Should we be doing these sections in reverse order so the latest is always at th
 
 # 0.0.8
 Try publishing from fork!
+
+# 0.0.9
+now with pyproject.toml
